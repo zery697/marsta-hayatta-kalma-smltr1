@@ -1,9 +1,5 @@
-/*
- * Mars Kolonisi Yasam Destek Simulatoru
- * Metin tabanli, tek karakterli komutlarla calisan C oyunu.
- * Kullanilan yapilar: switch-case (fall-through), if / else if / else,
- * for (break, continue), do-while, aritmetik (%, /, *) ve mantiksal (&&, ||) operatorler.
- */
+/** Mars Kolonisi Yasam Destek Simulatoru**/
+ 
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
